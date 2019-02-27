@@ -1,0 +1,84 @@
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+html{ padding-right: 10%}
+ul {
+  list-style-type: none;
+}
+
+.carte{
+  background-image: url("car.JPG");
+  /* background-size: contain; */
+  background-repeat: no-repeat ;
+  width: 35%;
+  height: 20%;
+  margin-left: 398px;
+  margin-top: 97px; 
+  border-radius: 20px;
+
+}
+
+svg,h3,h6,.Titree,.Cardholder,.Lardserie{
+  color: white
+}
+h2{
+  color: goldenrod;
+  /* border; */
+   border: white; 
+   border-width: 2%;
+   background-color: rgba(219, 221, 80, 0.925);
+   /* margin-left:20px; */
+   margin-right: 10px;
+   padding-right: 10px;
+   justify-content: right;
+  border-block-end-width: 10px;
+  border-radius: 10px;
+  border-right: 10px;
+
+}
+.Cardnumber{
+  display: flex;
+  justify-content: right;
+}
+.Titree{
+ padding-top: 2%;
+ margin-left: 37%;
+}
+span{
+  font-size: 200%; 
+}
+
+ .visa{
+
+  margin-left:25%;
+   display: flex  ;
+   display: flex;
+   justify-content: space-between;
+ 
+} 
+svg{
+margin-top:30px}
+
+.visaa{
+  display: flex;
+  margin-top: -8%;
+}
+.Cardholder{margin-top: -9%}
+
+
+
+.Logomaster{
+  margin-left: 4%;
+}
+
+Cardserie{
+  margin-bottom: 10%;
+}
+
+
+.form-group{
+  justify-content: center
+}
